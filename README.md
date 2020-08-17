@@ -1,7 +1,11 @@
 # AC-VO-PPR-Hackathon
 took part in russian hachathon which was arrenged by AC-VO (Акселиратор Возможностей) and PPR (Програмный Продукт))
 
-Name of our team: Dream Team
+
+Name of our team: 
+Dream Team
+
+
 Participants: 
 https://github.com/andrei-iliukhin;
 https://github.com/BormS;
@@ -9,15 +13,20 @@ https://github.com/Dmitry9889.
 
 
 
-Кейс: Анализ Поведения Пользоватей в Сети
+Кейс: 
+Анализ Поведения Пользоватей в Сети
 
-Цель: Реализовать модуль анализа трафика, позволяющий выявлять вредоносные соединения на базе анализа логов.
+
+Цель: 
+Реализовать модуль анализа трафика, позволяющий выявлять вредоносные соединения на базе анализа логов.
+
 
 Задачи: 
 1.Обнаружить атаки в тестовой выборке и классифицировать их
 2.Построить статистику по выявленным атакам, процентные соотношения между атаками
 3.Продемонстрировать работу разработанного модуля на реальных данных
-        
+
+
 Входные Данные: 
 1 Наборы данных;
 2. Типы тренировочных атак;
@@ -42,15 +51,20 @@ https://github.com/Dmitry9889.
 
 
 
-Case: Analysis of User Behavior on the Web
+Case: 
+Analysis of User Behavior on the Web
 
-Objective: Implement a traffic analysis module that allows detecting malicious connections based on log analysis.
+
+Objective: 
+Implement a traffic analysis module that allows detecting malicious connections based on log analysis.
+
 
 Tasks: 
 1. To detect attacks in the test sample and classify them
 2. Build statistics on detected attacks, percentages between attacks
 3. Demonstrate the work of the developed module on real data
-       
+  
+  
 Input Data: 
 1. Data Sets;
 2. Types of training attacks;
@@ -64,7 +78,8 @@ Description of Situation
 Network intrusion detection software protects network from unauthorized users.
 
 The task of training an intrusion detector is to build a predictive model (classifier) that can distinguish between “bad” connections, called attacks, and “good” normal connections.
-  Attacks fall into four main categories:
+
+Attacks fall into four main categories:
 1. DOS (denial-of-service,): denial of service;
 2. R2L: unauthorized access from a remote computer, for example, guessing a password;
 3. U2R: unauthorized access to local superuser (root) rights, for example, various "buffer overflows";
